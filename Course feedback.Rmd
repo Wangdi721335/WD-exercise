@@ -1,0 +1,11 @@
+# Learning experience
+
+***Through self-study e-book (R for Health Data Science) and homework completion, I now summarize the practice and learning as follows.***
+
+1.  The e-book "R for Health Data Science" has proven to be an invaluable and user-friendly resource in my journey of learning R language. As a student without a programming background, this book has played a pivotal role in helping me grasp the fundamentals and navigate the intricacies of using R software effectively. Its accessibility and guidance have made the learning process more approachable and enjoyable.
+
+2.  One of the significant challenges I currently face is related to programming issues. Given my lack of programming foundation, encountering bugs and problems while coding has been a common occurrence. This has led to spending considerable time searching for relevant solutions. The learning curve is steep, and the need for constant debugging and issue resolution has highlighted the importance of a patient and persistent approach to mastering R.
+
+3.  Despite these challenges, the learning experience has been rewarding. The course has provided a platform for me to explore and appreciate the charm of R language. However, I recognize the need for further guidance, especially in addressing the practical aspects of research, such as creating and enhancing scientific graphics. I hope that the course will incorporate instruction on methods to produce and beautify research graphics, as this skill is essential for effective communication of findings.
+
+4.  In conclusion, the combination of the helpful e-book, the challenging yet rewarding learning experiences, and the desire for additional instruction in graphical representation underscores the dynamic and evolving nature of acquiring proficiency in R language. The journey continues to be exciting, and with the right resources and support, I am confident in overcoming the challenges and further unlocking the potential of R in health data science.

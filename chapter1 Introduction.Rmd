@@ -2,7 +2,7 @@
 
 ***My name is Wang Di. I hope to learn the techniques of data analysis and graphic making in this course.***
 
-subtitle: "**Briefly describe the reason for learning**"
+"**Briefly describe the reason for learning**"
 
 -   Learning R language and data analysis can significantly enhance your ability to conduct effective research and analyze data in various scientific fields. R is a powerful programming language and environment specifically designed for statistical computing and data visualization. Its versatility makes it an invaluable tool for researchers, statisticians, and data analysts. One of the key advantages of learning R is its extensive set of packages and libraries tailored for different analytical needs. These packages cover a wide range of statistical techniques, machine learning algorithms, and data manipulation functions, allowing you to perform complex analyses with relative ease. The open-source nature of R fosters a collaborative community, ensuring a constant influx of new packages and updates.
 
